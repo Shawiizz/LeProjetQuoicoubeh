@@ -1,0 +1,7 @@
+{
+  "name": "LeProjet",
+  "version": "1.0.0",
+  "dependencies": {
+    "@diakem/libre-link-up-api-client": "^0.6.1"
+  }
+}
